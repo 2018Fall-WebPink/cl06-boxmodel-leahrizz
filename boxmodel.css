@@ -1,0 +1,102 @@
+/*
+* Leah Rizzo
+* December 10, 2018
+* CSS
+*/
+
+/* The universal selector */
+
+* {
+margin: 0;
+padding: 0;
+}
+
+
+/* Body attributes here */
+
+body {
+border-top:5px dashed black;
+border-right:5px dashed black;
+border-bottom:5px dashed black;
+border-left:5px dashed black; 
+    
+padding-top:.5em;
+padding-right: .em;
+padding-bottom: 1.5em;
+padding-left: .em;
+    
+
+width: auto;
+height: auto; 
+}
+h1{ 
+border-top:5px dashed blue;
+border-right:5px dashed blue;
+border-bottom:5px dashed blue;
+border-left:5px dashed blue;
+    
+padding-top: .5em;
+padding-right: 1em;
+padding-bottom: .5em;
+padding-left: 1em;
+    
+border-width: 2px;
+border-width: 4px;
+border-width: 2px;
+border width: 4px; 
+    
+margin-top: .8em;
+}
+
+main{
+    
+border-top:5px solid  green;
+border-right:5px solid  green;
+border-bottom:5px solid green;
+border-left:5px solid green; 
+    
+border-width: 2px;
+border-width: 4px;
+border-width: 2px;
+border width: 4px; 
+    
+padding-top: .5em;
+padding-right: 1em;
+padding-bottom: .5em;
+padding-left: 1em;
+    
+margin-top: 1em;
+margin-right: 1em;
+margin-bottom: 1 em;
+margin-left: 1em;
+    
+width: auto;
+height: auto; 
+}
+
+p{
+border-top:5px dashed purple;
+border-right:5px dashed purple;
+border-bottom:5px dashed purple;
+border-left:5px dashed purple; 
+    
+border-width: 2px;
+border-width: 4px;
+border-width: 2px;
+border width: 4px; 
+    
+padding-top: .5em;
+padding-right: 2em;
+padding-bottom: .5em;
+padding-left: 2em;
+    
+margin-top: .5em;
+margin-right: 2em;
+margin-bottom: 1 em;
+margin-left: 2em;
+    
+width: auto;
+height: auto; 
+}
+
+
